@@ -1,6 +1,7 @@
 # Hi there, I'm Jasser!👋
 **`Computer Science student`**
 
+I am an ambitious computer science student specializing in web development. With a solid foundation in coding and a passion for crafting interactive and user-friendly web experiences, I am eager to contribute my skills to exciting projects in the tech world.
 ---
 
 ### 🧰 Languages and Tools
