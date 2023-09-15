@@ -1,5 +1,5 @@
 # Hi there, I'm Jasser!👋
-**`full-stack developer`**
+**`Computer Science student`**
 
 ---
 
