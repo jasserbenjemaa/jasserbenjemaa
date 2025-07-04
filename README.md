@@ -1,11 +1,12 @@
-# Hi there, I'm Jasser!👋
-**`Computer Science student`**
+# 👋 Hi, I'm Jasser Ben Jemaa
 
-<p> I am an ambitious computer science student specializing in web development. With a solid foundation in coding and a passion for crafting interactive and user-friendly web experiences, I am eager to contribute my skills to exciting projects in the tech world.
+<p> 
+I'm a passionate computer science graduate (2025) with a strong interest in backend engineering, intelligent microservices, and applied AI. I focus on building software systems that bridge complex services and automate decision-making using LLMs.
+<p/>
 
-Let's connect and explore how my web development skills can bring value to your projects and initiatives.<p/>
+## About Me
 
-
+With a solid academic foundation and hands-on experience in both frontend and backend development, I strive to build efficient, scalable systems. I’m especially interested in AI-driven backend solutions, autonomous agents, and bridging API incompatibilities using language models. I believe in the power of open-source, automation, and continuous learning.
 
 ---
 ### 🧰 Languages and Tools
@@ -20,7 +21,15 @@ Let's connect and explore how my web development skills can bring value to your 
 
 <br />
 
-#
+## Key Projects 📚
+
+• **Intelligent API Connector:** Built a LangGraph-powered LLM agent to detect and fix API parameter incompatibilities in microservices.  
+• **SQL Extraction Agent:** Created a system to convert Flask+Supabase code into SQL using Gemini and OpenAI models.  
+• **LangGraph Assistant:** Designed a multi-tool autonomous assistant using LangGraph and browser automation (Playwright).  
+• **E-commerce Platform:** Developed a Laravel-based e-commerce site from scratch for educational purposes.  
+• **Proxmox Server Setup:** Converted an old laptop into a virtualization server to host multiple Docker containers.
+
+Feel free to [connect with me](mailto:jasser.ben.joma@gmail.com) or explore my pinned repositories to see what I’m currently building!
 
 ### 📊 Stats
 
