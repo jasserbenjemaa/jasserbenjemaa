@@ -4,10 +4,6 @@
 I'm a passionate computer science graduate (2025) with a strong interest in backend engineering, intelligent microservices, and applied AI. I focus on building software systems that bridge complex services and automate decision-making using LLMs.
 <p/>
 
-## About Me
-
-With a solid academic foundation and hands-on experience in both frontend and backend development, I strive to build efficient, scalable systems. I’m especially interested in AI-driven backend solutions, autonomous agents, and bridging API incompatibilities using language models. I believe in the power of open-source, automation, and continuous learning.
-
 ---
 ### 🧰 Languages and Tools
 
