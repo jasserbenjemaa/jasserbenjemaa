@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Jasser Ben Jemaa
 
+
+
 <p> 
 I'm a passionate computer science graduate (2025) with a strong interest in backend engineering, intelligent microservices, and applied AI. I focus on building software systems that bridge complex services and automate decision-making using LLMs.
 <p/>
+
+
 
 ---
 ### 🧰 Languages and Tools
@@ -16,6 +20,8 @@ I'm a passionate computer science graduate (2025) with a strong interest in back
 <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 
 <br />
+
+
 
 ## Key Projects 📚
 
