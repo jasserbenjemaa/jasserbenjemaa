@@ -1,42 +1,58 @@
-# 👋 Hi, I'm Jasser Ben Jemaa
+<h1 align="center">Hi, I'm Jasser Ben Jemaa 👋</h1>
 
+<p align="center">
+  <b>Engineer • Backend Developer • LLM Integrator • Systems Architect</b><br>
+  I build intelligent agents, connect APIs, and design scalable backend systems.
+</p>
 
-
-<p> 
-I'm a passionate computer science graduate (2025) with a strong interest in backend engineering, intelligent microservices, and applied AI. I focus on building software systems that bridge complex services and automate decision-making using LLMs.
-<p/>
-
-
+<p align="center">
+  <a href="mailto:jasser.ben.joma@gmail.com"><img src="https://img.shields.io/badge/Email-jasser.ben.joma@gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jasser-ben-jomaa-910468310/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/jasserbenjemaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-jasserbenjemaa-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
-### 🧰 Languages and Tools
 
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+### 🧠 What I Do
 
-<br />
+- 🤖 **LLM-Powered Backends** — GPT-4o • Gemini • LangGraph • LangChain
+- 🔌 **Backend & API Engineering** — Spring Boot • Flask • Supabase
+- 🖥️ **Systems & Virtualization** — Docker
 
+---
 
+### 🧰 Languages & Tools
 
-## Key Projects 📚
+<p align="left">
+  <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img alt="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+</p>
 
-• **Intelligent API Connector:** Built a LangGraph-powered LLM agent to detect and fix API parameter incompatibilities in microservices.  
-• **SQL Extraction Agent:** Created a system to convert Flask+Supabase code into SQL using Gemini and OpenAI models.  
-• **LangGraph Assistant:** Designed a multi-tool autonomous assistant using LangGraph and browser automation (Playwright).  
-• **E-commerce Platform:** Developed a Laravel-based e-commerce site from scratch for educational purposes.  
-• **Proxmox Server Setup:** Converted an old laptop into a virtualization server to host multiple Docker containers.
+<br/>
 
-Feel free to [connect with me](mailto:jasser.ben.joma@gmail.com) or explore my pinned repositories to see what I’m currently building!
+---
 
-### 📊 Stats
+### 🚀 Key Projects
 
-<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=jasserbenjemaa&show_icons=true&theme=tokyonight"/>
+- 🤖 **Intelligent API Connector** – LangGraph agent correcting parameter mismatches between microservices.  
+- 📦 **SQL Extractor Agent** – Extracts SQL queries from Flask + Supabase using Gemini.  
+- 🧠 **LangGraph Assistant** – Autonomous agent with browser automation, file handling, and tool orchestration.  
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasserbenjemaa&layout=compact"/>
+---
 
-#
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jasserbenjemaa&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasserbenjemaa&layout=compact" width="47%" />
+</p>
+
+---
+
+<p align="center"><em>“Code should solve problems and open doors.”</em></p>
