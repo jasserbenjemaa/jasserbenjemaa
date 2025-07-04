@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Jasser Ben Jemaa 👋</h1>
 
 <p align="center">
-  <b>Engineer • Backend Developer • LLM Integrator • Systems Architect</b><br>
-  I build intelligent agents, connect APIs, and design scalable backend systems.
+  <b>Computer Science Graduate • Backend Developer • LLM Enthusiast • Systems Builder</b><br>
+  I’m passionate about designing backend systems, building smart agents, and solving real-world problems with modern tools.
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 ### 🧠 What I Do
 
 - 🤖 **LLM-Powered Backends** — GPT-4o • Gemini • LangGraph • LangChain
-- 🔌 **Backend & API Engineering** — Spring Boot • Flask • Supabase
-- 🖥️ **Systems & Virtualization** — Docker
+- 🔌 **Backend & API Engineering** — Spring Boot • Flask • Supabase 
+- 🖥️ **Systems & Virtualization** — Docker • Kubernetes
 
 ---
 
@@ -40,9 +40,9 @@
 
 ### 🚀 Key Projects
 
-- 🤖 **Intelligent API Connector** – LangGraph agent correcting parameter mismatches between microservices.  
-- 📦 **SQL Extractor Agent** – Extracts SQL queries from Flask + Supabase using Gemini.  
-- 🧠 **LangGraph Assistant** – Autonomous agent with browser automation, file handling, and tool orchestration.  
+- 🤖 **Intelligent API Connector** – Built a LangGraph-powered agent that detects and fixes parameter mismatches between microservices  
+- 📦 **SQL Extractor Agent** – A tool that extracts SQL queries from Flask + Supabase code using Gemini/OpenAI APIs  
+- 🧠 **LangGraph Assistant** – Multi-tool autonomous agent with browser automation, file operations, and code reasoning
 
 ---
 
