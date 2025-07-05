@@ -15,25 +15,21 @@
 
 ### 🧠 What I Do
 
-- 🤖 **LLM-Powered Backends** — GPT-4o • Gemini  • LangChain
+- 🤖 **LLM-Powered Backends** — Gemini  • LangChain • LangGraph
 - 🔌 **Backend & API Engineering** — Spring Boot • Flask • Supabase 
 - 🖥️ **Systems & Virtualization** — Docker • Kubernetes
 
 ---
 
-### 🧰 Languages & Tools
+### 🔥 Tech Stack
 
-<div align="center">
-  <img alt="Linux" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img alt="HTML" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img alt="CSS" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img alt="JavaScript" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img alt="React" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Git" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Docker" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img alt="Spring" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-</div>
-<br/>
+```ts
+Languages:    Python, JavaScript, TypeScript, SQL, Java  
+Frontend:     React.js, Next.js, Tailwind CSS, Framer Motion  
+Backend:      Spring Boot, Flask, Supabase  
+AI/ML:        Gemini 2.5 Pro, LangChain, LangGraph  
+DevOps:       Docker, Kubernetes
+```
 
 ---
 
