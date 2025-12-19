@@ -16,7 +16,7 @@
 ### 🧠 What I Do
 
 - 🤖 **LLM-Powered Backends** — Gemini  • LangChain • LangGraph
-- 🔌 **Backend & API Engineering** — Spring Boot • Supabase 
+- 🔌 **Backend & API Engineering** — Flask • Supabase 
 - 🖥️ **Systems & Virtualization** — Docker • Kubernetes
 
 ---
