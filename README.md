@@ -41,13 +41,6 @@ DevOps:       Docker, Kubernetes
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasserbenjemaa&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasserbenjemaa&layout=compact" width="47%" />
-</p>
-
----
 
 <p align="center"><em>“Code should solve problems and open doors.”</em></p>
