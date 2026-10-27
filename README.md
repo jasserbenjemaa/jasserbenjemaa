@@ -25,9 +25,9 @@
 
 ```ts
 Languages:    Python, JavaScript, TypeScript, SQL 
-Frontend:     React.js, Next.js, Tailwind CSS, Framer Motion  
+Frontend:     React.js, Next.js, Tailwind CSS 
 Backend:      Flask, Supabase  
-AI/ML:        Gemini 2.5 Pro, LangChain, LangGraph  
+AI/ML:        Gemini, LangChain, LangGraph  
 DevOps:       Docker, Kubernetes
 ```
 
